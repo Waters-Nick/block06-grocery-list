@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color:darkgreen;
+  text-decoration: underline wavy;
+}
+/* section {
+  background-color:honeydew;
+} */
+
+div {
+  display: inline-block;
+  background-color:honeydew;
+  margin-right: 1em;
+  height: 150px;
+  width: 150px;
+}
+h2 {
+  border: 2px solid gray;
+  box-shadow: 4px 4px 4px lightslategray;
+  text-align: center;
+  background-color:blanchedalmond;
+}
+
+.pantry-items {
+  display:inline-block;
+}
